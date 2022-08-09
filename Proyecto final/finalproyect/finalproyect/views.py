@@ -7,8 +7,8 @@ def primer_template(request):
     today = datetime.now()
 
     context={
-        "name":"Shelo",
-        "last_name":"Setton",
+        "name":"mario",
+        "last_name":"JOSELUIS",
         "today":today    
     }
 
